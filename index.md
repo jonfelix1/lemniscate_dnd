@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lemniscate DND Archive
 
 [announcement](https://jonfelix1.github.io/lemniscate_dnd/announcements.html)  
 [hellscape](https://jonfelix1.github.io/lemniscate_dnd/hellscape.html)  
